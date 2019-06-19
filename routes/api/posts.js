@@ -237,7 +237,7 @@ router.delete('/comment/:id/:comment_id', auth, async (req, res) => {
       return res.status(404).json({ msg: 'Comment does not exist.' });
     }
 
-    console.log(comment.user);
+    // console.log(comment.user);
 
     // Check user
     if (comment.user.toString() !== req.user.id) {
