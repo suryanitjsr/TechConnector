@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://Surya_nitjsr:Suryanitjsr123@techconnector-efqvr.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "suryasecrettoken",
+  "githubClientId": "ce1fb45fedebfe809f50",
+  "githubSecret": "15b8ff4a80930bc97fe86d10a23605fc17c281ee"
+}
